@@ -37,7 +37,7 @@ This is a simple web application that displays a list of products in card format
 - DELETE `/api/products/:id` → Delete a product by its ID.
 
 ## Screenshots
-![Simple Card List](https://i.imgur.com/BeWBerN.png)
+![Simple Card List](https://i.postimg.cc/8PBF4Bzz/Screenshot-2025-02-06-at-12-17-08-PM.png)
 
 ## License
 This project is licensed under the MIT License.
